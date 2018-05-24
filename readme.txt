@@ -5,4 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Successfully pushed to github, great!
 Creating a new branch is quick and simple.
-Merging branches is simple.
+Git is a free software.
